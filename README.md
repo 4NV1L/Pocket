@@ -1,2 +1,2 @@
 # Vault
-Collection center for small scripts that I have created, found, and just collected over time. (Bash, Python, Go, Yara)
+Just a dump of small scripts and things I've made/used for personal things
